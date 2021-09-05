@@ -1,0 +1,10 @@
+github.com/aliyun/aliyun-oss-go-sdk v2.1.10+incompatible h1:D3gwOr9qUUmyyBRDbpnATqu+EkqqmigFd3Od6xO1QUU=
+github.com/aliyun/aliyun-oss-go-sdk v2.1.10+incompatible/go.mod h1:T/Aws4fEfogEE9v+HPhhw+CntffsBHJ8nXQCwKr0/g8=
+github.com/bitwormhole/starter v0.0.32 h1:Def89w3e3kMf4G3xq5F8kpHf2nK1DId4FuU175w7oiw=
+github.com/bitwormhole/starter v0.0.32/go.mod h1:Mv2MC4cWHU2eUs4793mL7pXL79pmjp1HJyA9bV8ZVMc=
+github.com/bitwormhole/starter v0.0.50 h1:wVDO5Wbt05/8F3aswJUGk6XaVjpv3TxqhAJO4obnKJE=
+github.com/bitwormhole/starter v0.0.50/go.mod h1:3/UtKB8VwcmR5xf8mx4V7vgGLaej89LaoT+KuJKWL60=
+github.com/bitwormhole/starter v0.0.51 h1:9sn95W0k8dt8FwlE6VF5KqHVpa8T1toTvYyn5HXUb1k=
+github.com/bitwormhole/starter v0.0.51/go.mod h1:3/UtKB8VwcmR5xf8mx4V7vgGLaej89LaoT+KuJKWL60=
+golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac h1:7zkz7BUtwNFFqcowJ+RIgu2MaV/MapERkDIy+mwPyjs=
+golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac/go.mod h1:tRJNPiyCQ0inRvYxbN9jk5I+vvW/OXSQhTDSoE431IQ=
